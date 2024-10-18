@@ -1,0 +1,29 @@
+SQL and Tableau Visualization (Project 2)
+Table is dim.employee
+1. KPIs: Total BaseRate/hr, Av BaseRate/hr, Total Number of Employees, Average
+Vacation Hours.
+
+2. BaseRate is the hourly pay of all workers. If the workers work 8 hrs daily, 5 days
+weekly, 4 weeks monthly, and 12 months yearly, how much will be their individual
+annual salary. Visualise on a barchart the top 7 most paid employee based on annual
+salary.
+
+3. How many workers were hired each year? Visualise this information on a pie chart.
+
+4. Based on National Policy, the retirement age is 65. Show a table of employees that
+will be retired, and their current age.
+
+5. Create an age classification column based on 30 - 39 (Young Workers), 40 - 49 (Mid
+Age Workers), 50 - 59 (Senior Workers)above (Retirement Workers). Visualise the
+number workers in each category.
+
+6. What age class takes the most vacation hours, and as well show their average
+BaseRate.
+
+7. Off-Work hours is an addition of Vacation Hours and SickLeave Hours. What gender
+takes the most off-work hours. Visualise this information using the best visuals you
+can think of.
+
+8. How many departments are there?. Visualise this information with a preferred chart
+showing departments, the number workers in each department, and the average of
+off-works hours each department takes.
